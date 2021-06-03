@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @newtoallofthis123
 - 👀 I’m interested in Tech Privacy, Scripting, Web Applications
-- 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...Html, Css, Javascript,
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...wannabeprivate23579@tutanota.com
 
 <!---
