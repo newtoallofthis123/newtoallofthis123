@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech Privacy, Scripting, Web Applications
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python
-- 📫 How to reach me ...wannabeprivate23579@tutanota.com
+- 📫 How to reach me ...noobscience123@gmail.com
 
 <!---
 newtoallofthis123/newtoallofthis123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
