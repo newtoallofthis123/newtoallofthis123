@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @newtoallofthis123
+- 👋 Hi, I’m NoobScience
 - 👀 I’m interested in Tech Privacy, Scripting, Web Applications
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Python
