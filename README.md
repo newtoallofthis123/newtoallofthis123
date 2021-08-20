@@ -15,7 +15,7 @@
 - [NoobNote](https://newtoallofthis123.github.io/NoobNote): An Alternative to Notepad
 - [Unleaky](https://newtoallofthis123.github.io/unleaky): A Cli password manager
 - [Topy](https://newtoallofthis123.github.io/topy): A Cli ToDo manager
-- [RanPack](https://newtoallofthis123.github.io/NoobNote): A Customizable and functional rainmeter skin
+- [RanPack](https://newtoallofthis123.github.io/ranpack): A Customizable and functional rainmeter skin
 
 <!---
 newtoallofthis123/newtoallofthis123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
