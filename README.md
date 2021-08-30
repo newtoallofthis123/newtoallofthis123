@@ -13,7 +13,7 @@
 
 ## Some of my project
 - [NoobNote](https://newtoallofthis123.github.io/NoobNote): An Alternative to Notepad
-- [Unleaky](https://newtoallofthis123.github.io/unleaky): A Cli password manager
+- [YTPS](https://github.com/newtoallofthis123/ytps): A Beautiful Youtube Search CLI
 - [Topy](https://newtoallofthis123.github.io/topy): A Cli ToDo manager
 - [RanPack](https://newtoallofthis123.github.io/ranpack): A Customizable and functional rainmeter skin
 
