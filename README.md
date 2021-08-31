@@ -9,7 +9,7 @@
  
  <a href="https://libraries.io/github/newtoallofthis123" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=newtoallofthis123&theme=merko" alt="NoobScience Stats" align="right" width="40%"></a>
  
- ![Github](https://img.shields.io/github/followers/newtoallofthis123?label=Github&style=social) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCbYWy7rhUhToM3tbw-Z3SnQ?label=Youtube&style=social)
+ ![Github](https://img.shields.io/github/followers/newtoallofthis123?label=Github&style=social) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCbYWy7rhUhToM3tbw-Z3SnQ?label=Youtube&style=social) ![Website](https://img.shields.io/github/watchers/newtoallofthis123/NoobNote?color=green&label=Website&logo=python&logoColor=black&style=social)
  
 ## Some of my Projects
 - [NoobNote](https://newtoallofthis123.github.io/NoobNote): An Alternative to Notepad
