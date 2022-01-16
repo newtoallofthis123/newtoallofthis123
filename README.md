@@ -13,7 +13,7 @@
  
 ## Some of my Projects
 - [NoobNote](https://newtoallofthis123.github.io/NoobNote): An Alternative to Notepad
-- [NoobPaste](https://noobpaste.herokuapp.com): A Nice and Neat Functional Clone of pastebin with a online editor
+- [NoobPaste](https://noobpaste.herokuapp.com): A Nice and Neat PasteBin Alternative
 - [NoobShort](https://noob-short.herokuapp.com): A Simple Url Shortener
 - [YTPS-Live](https://ytps-live.herokuapp.com): A Simple Web Version of YTPS
 <!-- - [NS-Texture](https://newtoallofthis123.github.io/NS-Texture): A Mineclone Texture pack with Minecraft Textures -->
