@@ -7,15 +7,16 @@
 /_/ |_/\____/\____/_.___/____/\___/_/\___/_/ /_/\___/\___/ 
 ```
  
- <a href="https://libraries.io/github/newtoallofthis123" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=newtoallofthis123&theme=merko" alt="NoobScience Stats" align="right" width="40%"></a>
+ <a href="https://libraries.io/github/newtoallofthis123" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=newtoallofthis123&theme=dracula" alt="NoobScience Stats" align="right" width="40%"></a>
  
  ![Github](https://img.shields.io/github/followers/newtoallofthis123?label=Github&style=social) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCbYWy7rhUhToM3tbw-Z3SnQ?label=Youtube&style=social) ![Website](https://img.shields.io/github/watchers/newtoallofthis123/NoobNote?color=green&label=Website&logo=python&logoColor=black&style=social)
  
 ## Some of my Projects
-- [NoobNote](https://newtoallofthis123.github.io/NoobNote): An Alternative to Notepad
-- [NoobPaste](https://noobpaste.herokuapp.com): A Nice and Neat PasteBin Alternative
-- [NoobShort](https://noob-short.herokuapp.com): A Simple Url Shortener
-- [YTPS-Live](https://ytps-live.herokuapp.com): A Simple Web Version of YTPS
+- [NoobShare](https://noobshare.herokuapp.com): A Neat Text Sharing Website
+- [ShortPaw](https://shortpaw.herokuapp.com): A Beautiful Url Shortener
+- [YTSpider](https://ytspider.herokuapp.com): A Simple Front End for YouTube
+- [YTPS](https://newtoallofthis123.github.io/ytps): A Simple YouTube CLI
+- [NoobShare](https://noobshare.herokuapp.com): A Bloging Platform (WIP)
 <!-- - [NS-Texture](https://newtoallofthis123.github.io/NS-Texture): A Mineclone Texture pack with Minecraft Textures -->
 <!-- - [RanPack](https://newtoallofthis123.github.io/ranpack): A Customizable and functional rainmeter skin -->
 
