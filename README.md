@@ -13,7 +13,7 @@
  ----------------------------------
  I am Ishan! I go by NoobScience online. I am a huge fan of the open source and I love the terminal and cli interfaces. I write a small blog here on hashnode and I am for the most part, a back end developer. I am currently learning rust while building applications with python and flask. I am quite active on github and you can always reach out to me from my twitter, instagram, discord and email. Enjoy my work 🙂
  * 🌍  I'm based in India
- * 🖥️  See my portfolio at [Portfolio](http://noobscience.surge.sh)
+ * 🖥️  See my portfolio at [Portfolio](https://newtoallofthis123.github.io/About)
  * ✉️  You can contact me at [noobscience123@gmail.com](mailto:noobscience123@gmail.com)
  * 🚀  I'm currently working on [NoobPaste](http://github.com/newtoallofthis123/NoobPaste)
  * 🧠  I'm learning Rust
