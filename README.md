@@ -16,6 +16,9 @@ A Student and Open Source Enthusiast from India
 src="https://img.shields.io/twitter/follow/noobscience1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+
+[![wakatime](https://wakatime.com/badge/user/7bd238cb-c7ea-4e56-abe2-0b6ae36ff252.svg)](https://wakatime.com/@7bd238cb-c7ea-4e56-abe2-0b6ae36ff252)
+
 ### Skills
 
 
