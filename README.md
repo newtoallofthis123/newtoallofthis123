@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/noobscience1" target="blank"><img src="https://img.shields.io/twitter/follow/noobscience1?logo=twitter&style=for-the-badge" alt="noobscience1" /></a> </p>
 
-- 🔭 I’m currently working on [peep](https://peep.noobscience.rocks)
+- 🔭 I’m currently working on [noobscience.rocks](https://noobscience.rocks)
 
 - 🌱 I’m currently learning **react, django**
 
-- 🔗 Link Tree [links.noobscience.rocks](https://links.noobscience.rocks)
+- 🔗 Link Tree [noobscience.rocks/social](https://noobscience.rocks/social)
 
 - 🤝 I’m looking for help with [peep](https://github.com/newtoallofthis123/peep)
 
