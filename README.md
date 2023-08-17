@@ -8,8 +8,8 @@ A Passionate Developer from India
 * 🖥️  See my portfolio at [noobscience.rocks](http://noobscience.rocks)
 * ✉️  You can contact me at [noobscience@duck.com](mailto:noobscience@duck.com)
 * 🚀  I'm currently working on [noobscience.rocks](http://noobscience.rocks)
-* 🧠  I'm learning React and Django
-* 🤝  I'm open to collaborating on React, NextJS, Django, Python
+* 🧠  I'm learning Machine Learning and Rust
+* 🤝  I'm open to collaborating on React, NextJS, ML, Rust
 * ⚡  And I'm 19 this year
 
 <a href="https://www.twitter.com/noobscience1" target="_blank" rel="noreferrer"><img
