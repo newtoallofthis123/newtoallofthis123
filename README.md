@@ -1,7 +1,7 @@
 Hi 👋 My name is Ishan Joshi
 ============================
 
-A Passionate Developer from India
+A Student and Developer from India
 -----------------------------------------------
 
 * 🌍  I'm based in India
