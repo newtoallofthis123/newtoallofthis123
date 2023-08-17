@@ -55,20 +55,6 @@ src="https://img.shields.io/twitter/follow/noobscience1?logo=twitter&style=for-t
 
 <p align="left"> <a href="https://discord.com/users/noobscience#0820" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/newtoallofthis123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://noobscience.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ishan-joshi-7985a9258/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://blog.noobscience.rocks/rss.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16859540/noob-science" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/noobscience1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/noobscience1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/newtoallofthis123"><img src="https://github-readme-stats.vercel.app/api?username=newtoallofthis123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="newtoallofthis123's GitHub stats" /></a>
-
-<b>My Programming Activity From Wakatime</b>
-
-![wakatime_activity](https://wakatime.com/share/@noobscience123/eb9c86fd-dbac-47dd-b714-bfcbef4c9bda.svg)
-
-<b>Languages I use as detected by Wakatime</b>
-
-<img width="512" src="https://wakatime.com/share/@noobscience123/7d922e56-0580-4072-a9a9-a6f1317d0ad6.svg" />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/noobscience123"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
