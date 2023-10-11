@@ -12,3 +12,6 @@ Here's what you should know about me in like 8 points
 
 I guess that should be it.
 ## Check me out on my [site](https://noobscience.rocks)
+
+## Hacktober!
+[![An image of @newtoallofthis123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/newtoallofthis123)](https://holopin.io/@newtoallofthis123)
